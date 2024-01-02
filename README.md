@@ -31,12 +31,11 @@ With a relentless pursuit of excellence, I am poised to make meaningful contribu
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCD3rA1qQuUMQaFnzvkFp5NA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@topiatv.official">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCD3rA1qQuUMQaFnzvkFp5NA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-   </p>
       <a href="https://www.paypal.me/mrtopiaofficial">
-        <img src="https://custom-icon-badges.demolab.com/badge/AswinOP-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/Mrtopia-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
     </a>
     <a href="https://www.buymeacoffee.com/mrtopia">
-        <img src="https://custom-icon-badges.demolab.com/badge/AswinOP-ffff00?style=for-the-badge&logo=coffee-meow">
+        <img src="https://custom-icon-badges.demolab.com/badge/Mrtopia-ffff00?style=for-the-badge&logo=coffee-meow">
 
 ---
 
