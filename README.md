@@ -1,4 +1,7 @@
-# 🏄‍♂️ MrTopia [@topiatv.official](https://www.youtube.com/@topiatv.official)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Aswin!;A+Passionate+Developer+from+INDIA!&center=true&width=380&height=55">
+</p>
+
 
 **`Digital Content Creater & Developer`**
 
