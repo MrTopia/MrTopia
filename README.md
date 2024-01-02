@@ -13,7 +13,7 @@ In addition to my academic pursuits and development endeavors, I have embraced t
 
 With a relentless pursuit of excellence, I am poised to make meaningful contributions to the ever-evolving landscape of technology. As I continue to grow academically, professionally, and creatively, I look forward to leveraging my skills and knowledge for the betterment of the tech community. 
 
---
+---
 
 <!-- Social icons section -->
 <p align="center">
