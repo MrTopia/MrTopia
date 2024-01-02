@@ -46,6 +46,9 @@ With a relentless pursuit of excellence, I am poised to make meaningful contribu
 [![REVIEWING PROJECT ELIXIR 3.12 || POCO X4 PRO || THE MOST STABLE ROM WITH ULTIMATE GAMING & BATTERY](https://ytcards.demolab.com/?id=1giV8mYvVM8&title=REVIEWING+PROJECT+ELIXIR+3.12+%7C%7C+POCO+X4+PRO+%7C%7C+THE+MOST+STABLE+ROM+WITH+ULTIMATE+GAMING+%26+BATTERY&lang=en&timestamp=1697697000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "REVIEWING PROJECT ELIXIR 3.12 || POCO X4 PRO || THE MOST STABLE ROM WITH ULTIMATE GAMING & BATTERY")](https://www.youtube.com/watch?v=1giV8mYvVM8)
 <!-- END YOUTUBE-CARDS -->
 
+### Top Projects
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=aswinop&repo=device_xiaomi_veux&theme=dark)](https://github.com/MrTopia/device_xiaomi_veux)
+
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@topiatv.official)
 
 #
