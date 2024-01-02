@@ -52,6 +52,7 @@ With a relentless pursuit of excellence, I am poised to make meaningful contribu
 
 ### Top Projects
 [![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=aswinop&repo=device_xiaomi_veux&theme=dark)](https://github.com/MrTopia/device_xiaomi_veux)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=aswinop&repo=device_xiaomi_veux&theme=dark)](https://github.com/MrTopia/android_device_xiaomi_veux)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@topiatv.official)
 
