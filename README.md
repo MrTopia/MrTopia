@@ -2,7 +2,13 @@
 
 **`Digital Content Creater & Developer`**
 
-Myself Priyanshu Karmakar a.k.a MrTopia **`I know sounds weird`**
+Myself Priyanshu Karmakar a.k.a MrTopia **`I know sounds weird`** is an 18-year-old individual who is deeply passionate about technology and its transformative potential. Currently pursuing an Honors degree in Computer Science at Balurghat College, I am not only a dedicated student but also a proficient developer with a specialization in Android Open Source Project (AOSP) ROM maintenance.
+
+My journey in the tech world extends beyond academia, as I actively contribute to the Android community as a ROM maintainer. This involves the meticulous curation and enhancement of custom Android firmware, showcasing my commitment to delivering optimized user experiences.
+
+In addition to my academic pursuits and development endeavors, I have embraced the dynamic realm of content creation on YouTube. As a YouTuber, I share insights into the world of technology, development tutorials, and other relevant content, aiming to contribute to the knowledge-sharing ecosystem.
+
+With a relentless pursuit of excellence, I am poised to make meaningful contributions to the ever-evolving landscape of technology. As I continue to grow academically, professionally, and creatively, I look forward to leveraging my skills and knowledge for the betterment of the tech community. 
 
    <p align="left">
       <a href="https://www.youtube.com/@topiatv.official">
