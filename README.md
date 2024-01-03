@@ -17,8 +17,6 @@ With a relentless pursuit of excellence, I am poised to make meaningful contribu
 
 <!-- Social icons section -->
 <p align="left">
-  <a href="https://www.youtube.com/@topiatv.official"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/871021829584736257" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/mrtopia"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
