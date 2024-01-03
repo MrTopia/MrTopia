@@ -16,9 +16,6 @@ With a relentless pursuit of excellence, I am poised to make meaningful contribu
 ---
 
 <!-- Social icons section -->
-   <p align="left">
-      [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@topiatv.official) 
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCD3rA1qQuUMQaFnzvkFp5NA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
       <a href="https://www.paypal.me/mrtopiaofficial">
         <img src="https://custom-icon-badges.demolab.com/badge/Mrtopia-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
     </a>
