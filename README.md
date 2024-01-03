@@ -16,14 +16,6 @@ With a relentless pursuit of excellence, I am poised to make meaningful contribu
 ---
 
 <!-- Social icons section -->
-<p align="left">
-  <a href="https://discordapp.com/users/871021829584736257" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/mrtopia"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
-
    <p align="left">
       [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@topiatv.official) 
       <a href="https://www.youtube.com/@topiatv.official">
