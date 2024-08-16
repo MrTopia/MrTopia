@@ -47,6 +47,6 @@ With a relentless pursuit of excellence, I am poised to make meaningful contribu
 
 ### Top Projects
 [![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=MrTopia&repo=device_xiaomi_veux&theme=dark)](https://github.com/MrTopia/device_xiaomi_veux)
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=MrTopia&repo=android_device_xiaomi_veux&theme=dark)](https://github.com/MrTopia/android_device_xiaomi_veux)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=MrTopia&repo=device_xiaomi_peridot&theme=dark)](https://github.com/MrTopia/device_xiaomi_peridot)
 
 #
