@@ -46,7 +46,9 @@ With a relentless pursuit of excellence, I am poised to make meaningful contribu
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@topiatv.official)
 
 ---
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTopias&how_icons=true&theme=transparent)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTopia&show_icons=true&theme=transparent)
+
 ---
 
 ### Top Projects
