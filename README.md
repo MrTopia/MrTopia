@@ -23,9 +23,6 @@ With a relentless pursuit of excellence, I am poised to make meaningful contribu
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCD3rA1qQuUMQaFnzvkFp5NA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
       <a href="https://t.me/MrTopiA">
         <img src="https://custom-icon-badges.demolab.com/badge/MrTopiA-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
-    <a href="https://paypal.me/mrtopiaofficial">
-        <img src="https://custom-icon-badges.demolab.com/badge/MrTopia-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
-    </a>
     <a href="https://www.buymeacoffee.com/mrtopia">
         <img src="https://custom-icon-badges.demolab.com/badge/MrTopia-ffff00?style=for-the-badge&logo=coffee-meow">
    </p>
