@@ -5,7 +5,7 @@
 
 **`Digital Content Creater & Developer`**
 
-Myself Priyanshu Karmakar a.k.a MrTopia **`I know sounds weird`** is an 18-year-old individual who is deeply passionate about technology and its transformative potential. Currently pursuing an Honors degree in Computer Science at Balurghat College, I am not only a dedicated student but also a proficient developer with a specialization in Android Open Source Project (AOSP) ROM maintenance.
+Myself Priyanshu Karmakar a.k.a tranQuila prev known as MrTopia **`I know sounds weird`** is an 18-year-old individual who is deeply passionate about technology and its transformative potential. Currently pursuing an Honors degree in Computer Science at Balurghat College, I am not only a dedicated student but also a proficient developer with a specialization in Android Open Source Project (AOSP) ROM maintenance.
 
 My journey in the tech world extends beyond academia, as I actively contribute to the Android community as a ROM maintainer. This involves the meticulous curation and enhancement of custom Android firmware, showcasing my commitment to delivering optimized user experiences.
 
